@@ -1,0 +1,9 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgb(24, 186, 186);
+}
+@media screen and (max-width: 500px) {
+  .video {
+    width: 100%;
+  }
+}
